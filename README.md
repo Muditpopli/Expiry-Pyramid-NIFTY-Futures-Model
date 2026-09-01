@@ -28,7 +28,7 @@ historical backtest-only project.
 
 ## Validated results
 
-From the 3-year expanding-window walk-forward evaluation (10 quarterly
+From the 2.5-year expanding-window walk-forward evaluation (10 quarterly
 folds, out-of-sample July 2023 – December 2025, 592 out-of-sample trades):
 
 - **Directional accuracy: 53.5%** — about **1.7 standard deviations above**
