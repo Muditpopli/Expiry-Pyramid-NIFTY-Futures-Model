@@ -1,0 +1,14 @@
+# Core
+numpy>=1.26.4
+pandas>=2.2.0
+scipy>=1.13.0
+
+# Modeling
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+lightgbm>=4.0.0    # optional — ml_direction.py skips it gracefully if absent
+
+# EDA / model-diagnostics notebook (notebooks/01_eda_and_strategy_overview.ipynb)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+jupyter>=1.0.0

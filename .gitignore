@@ -1,0 +1,20 @@
+# Model artifacts (this is a live/future strategy — the model is at least
+# as sensitive as any historical backtest output)
+*.pkl
+*.joblib
+models/
+
+# Raw options-chain cache and generated snapshot/report/feature data
+data/cache/
+data/snapshots/
+data/reports/
+data/ml/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Secrets, if this project ever gets its own .env
+.env
